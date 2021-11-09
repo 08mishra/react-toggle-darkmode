@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-toggle-darkmode/static/css/main.ba5e76c7.chunk.css",
+    "main.js": "/react-toggle-darkmode/static/js/main.12b8ccbc.chunk.js",
+    "main.js.map": "/react-toggle-darkmode/static/js/main.12b8ccbc.chunk.js.map",
+    "runtime-main.js": "/react-toggle-darkmode/static/js/runtime-main.d37ae303.js",
+    "runtime-main.js.map": "/react-toggle-darkmode/static/js/runtime-main.d37ae303.js.map",
+    "static/js/2.f0471707.chunk.js": "/react-toggle-darkmode/static/js/2.f0471707.chunk.js",
+    "static/js/2.f0471707.chunk.js.map": "/react-toggle-darkmode/static/js/2.f0471707.chunk.js.map",
+    "static/js/3.0f1d4a41.chunk.js": "/react-toggle-darkmode/static/js/3.0f1d4a41.chunk.js",
+    "static/js/3.0f1d4a41.chunk.js.map": "/react-toggle-darkmode/static/js/3.0f1d4a41.chunk.js.map",
+    "index.html": "/react-toggle-darkmode/index.html",
+    "static/css/main.ba5e76c7.chunk.css.map": "/react-toggle-darkmode/static/css/main.ba5e76c7.chunk.css.map",
+    "static/js/2.f0471707.chunk.js.LICENSE.txt": "/react-toggle-darkmode/static/js/2.f0471707.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d37ae303.js",
+    "static/js/2.f0471707.chunk.js",
+    "static/css/main.ba5e76c7.chunk.css",
+    "static/js/main.12b8ccbc.chunk.js"
+  ]
+}
